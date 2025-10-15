@@ -43,7 +43,7 @@ Languages and Tools</h3>
 <h2>🎧 Let's Develop and Help Together</h2>
 
 <p>
-  <a href="[https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/azhad-arshad-594b64323/)" target="_blank">
+  <a href="https://www.linkedin.com/in/azhad-arshad-594b64323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.kaggle.com/azhadarshad" target="_blank">
