@@ -54,7 +54,7 @@ Languages and Tools</h3>
   <a href="https://instagram.com/azhad.arshad07" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://www.azhadarshad.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
